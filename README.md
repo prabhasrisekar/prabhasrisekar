@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Prabha Sri Sekar👋
+MEAN stack developer from Tamil Nadu, India, building full-stack apps and AI-powered chatbots.
 
-<!--
-**prabhasrisekar/prabhasrisekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+**Frontend:** Angular (standalone components), TypeScript, HTML/CSS , Bootstrap
+**Backend:** Node.js, Express, Socket.IO
+**Databases:** MongoDB, Oracle
+**AI/Other:** Hugging Face LLMs, RAG
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- **TeamHub**: HRMS app with real-time features (Angular, Node.js, MongoDB, Socket.IO)
+- **Insurance Chatbot** — AI-assisted insurance workflows
+- **Sign Language Detection** — Real-time sign language recognition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+prabhasekar19112003@gmail.com
