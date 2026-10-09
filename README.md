@@ -8,7 +8,7 @@ MEAN stack developer from Tamil Nadu, India, building full-stack apps and AI-pow
 **AI/Other:** Hugging Face LLMs, RAG
 
 ## 🚀 Featured Projects
-- **TeamHub**: HRMS app with real-time features (Angular, Node.js, MongoDB, Socket.IO)
+- **TeamHub**:Employee and attendance management(Angular, Node.js, MongoDB, Socket.IO)
 - **Insurance Chatbot** — AI-assisted insurance workflows
 - **Sign Language Detection** — Real-time sign language recognition
 
